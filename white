@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8"/>
-        <title>Looping Draw Animation</title>
+        <title>stance works</title>
         <style>
             @keyframes draw {
                 0% {
